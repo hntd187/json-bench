@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-print matplotlib.style.available
 matplotlib.style.use('classic')
 
 plot_style = {

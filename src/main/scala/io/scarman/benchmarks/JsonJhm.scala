@@ -41,6 +41,6 @@ abstract class JmhBenchmarks(name: String) {
 
 //class Qux2Bench extends JmhBenchmarks("qux2.json")
 class Bla25Bench extends JmhBenchmarks("bla25.json")
-//class Companies   extends JmhBenchmarks("companies.json")
+class Companies   extends JmhBenchmarks("companies.json")
 class Ugh10kBench extends JmhBenchmarks("ugh10k.json")
 //class CountriesBench extends JmhBenchmarks("countries.geo.json")
